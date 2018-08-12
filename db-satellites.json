@@ -1778,6 +1778,41 @@
     "status": "alive"
   },
   {
+    "norad_cat_id": 99970,
+    "name": "SiriusSat-1",
+    "names": "RS13S",
+    "image": "https://db.satnogs.org/media/satellites/SiriusSat.png",
+    "status": "alive"
+  },
+  {
+    "norad_cat_id": 99971,
+    "name": "SiriusSat-2",
+    "names": "RS14S",
+    "image": "https://db.satnogs.org/media/satellites/SiriusSat_Q5EGcM6.png",
+    "status": "alive"
+  },
+  {
+    "norad_cat_id": 99980,
+    "name": "BHUTAN-1",
+    "names": "JG6YKL\r\nBIRD-BT",
+    "image": "https://db.satnogs.org/media/satellites/Bhutan-1.png",
+    "status": "alive"
+  },
+  {
+    "norad_cat_id": 99981,
+    "name": "MAYA-1",
+    "names": "JG6YKM\r\nBIRD-PH",
+    "image": "https://db.satnogs.org/media/satellites/maya-1.png",
+    "status": "alive"
+  },
+  {
+    "norad_cat_id": 99982,
+    "name": "UiTMSat-1",
+    "names": "JG6YKN\r\nBIRD-MY",
+    "image": "https://db.satnogs.org/media/satellites/uitmsat.png",
+    "status": "alive"
+  },
+  {
     "norad_cat_id": 99999,
     "name": "IRVINE-01",
     "names": "",
