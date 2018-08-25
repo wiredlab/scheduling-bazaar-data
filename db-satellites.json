@@ -364,6 +364,13 @@
     "status": "alive"
   },
   {
+    "norad_cat_id": 39086,
+    "name": "SARAL",
+    "names": "",
+    "image": "https://db.satnogs.org/media/satellites/saral__2.jpg",
+    "status": "alive"
+  },
+  {
     "norad_cat_id": 39087,
     "name": "AAUSAT3",
     "names": "",
@@ -1306,7 +1313,7 @@
     "name": "CHALLENGER",
     "names": "US01 ON01US QB50 US01, QBUS 1",
     "image": "https://db.satnogs.org/media/satellites/CHALLENGER.jpg",
-    "status": "alive"
+    "status": "re-entered"
   },
   {
     "norad_cat_id": 42722,
@@ -1750,6 +1757,48 @@
     "status": "alive"
   },
   {
+    "norad_cat_id": 43589,
+    "name": "UiTMSat-1",
+    "names": "JG6YKN\r\nBIRD-MY",
+    "image": "https://db.satnogs.org/media/satellites/uitmsat.png",
+    "status": "alive"
+  },
+  {
+    "norad_cat_id": 43590,
+    "name": "MAYA-1",
+    "names": "JG6YKM\r\nBIRD-PH",
+    "image": "https://db.satnogs.org/media/satellites/maya-1.png",
+    "status": "alive"
+  },
+  {
+    "norad_cat_id": 43591,
+    "name": "BHUTAN-1",
+    "names": "JG6YKL\r\nBIRD-BT",
+    "image": "https://db.satnogs.org/media/satellites/Bhutan-1.png",
+    "status": "alive"
+  },
+  {
+    "norad_cat_id": 43595,
+    "name": "SiriusSat-1",
+    "names": "RS13S",
+    "image": "https://db.satnogs.org/media/satellites/SiriusSat.png",
+    "status": "alive"
+  },
+  {
+    "norad_cat_id": 43596,
+    "name": "SiriusSat-2",
+    "names": "RS14S",
+    "image": "https://db.satnogs.org/media/satellites/SiriusSat_Q5EGcM6.png",
+    "status": "alive"
+  },
+  {
+    "norad_cat_id": 43597,
+    "name": "OBJECT PJ",
+    "names": "",
+    "image": null,
+    "status": "alive"
+  },
+  {
     "norad_cat_id": 99937,
     "name": "CNUSAIL-1",
     "names": "",
@@ -1778,38 +1827,17 @@
     "status": "alive"
   },
   {
-    "norad_cat_id": 99970,
-    "name": "SiriusSat-1",
-    "names": "RS13S",
-    "image": "https://db.satnogs.org/media/satellites/SiriusSat.png",
+    "norad_cat_id": 99973,
+    "name": "Tanusha-4",
+    "names": "",
+    "image": null,
     "status": "alive"
   },
   {
-    "norad_cat_id": 99971,
-    "name": "SiriusSat-2",
-    "names": "RS14S",
-    "image": "https://db.satnogs.org/media/satellites/SiriusSat_Q5EGcM6.png",
-    "status": "alive"
-  },
-  {
-    "norad_cat_id": 99980,
-    "name": "BHUTAN-1",
-    "names": "JG6YKL\r\nBIRD-BT",
-    "image": "https://db.satnogs.org/media/satellites/Bhutan-1.png",
-    "status": "alive"
-  },
-  {
-    "norad_cat_id": 99981,
-    "name": "MAYA-1",
-    "names": "JG6YKM\r\nBIRD-PH",
-    "image": "https://db.satnogs.org/media/satellites/maya-1.png",
-    "status": "alive"
-  },
-  {
-    "norad_cat_id": 99982,
-    "name": "UiTMSat-1",
-    "names": "JG6YKN\r\nBIRD-MY",
-    "image": "https://db.satnogs.org/media/satellites/uitmsat.png",
+    "norad_cat_id": 99974,
+    "name": "Tanusha-3",
+    "names": "",
+    "image": null,
     "status": "alive"
   },
   {

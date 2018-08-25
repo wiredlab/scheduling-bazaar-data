@@ -20,14 +20,6 @@
     "name": "AM"
   },
   {
-    "id": 4,
-    "name": "APRS"
-  },
-  {
-    "id": 25,
-    "name": "APRS9k6"
-  },
-  {
     "id": 44,
     "name": "APT"
   },
@@ -42,6 +34,10 @@
   {
     "id": 47,
     "name": "BPSK1k2"
+  },
+  {
+    "id": 60,
+    "name": "BPSK400"
   },
   {
     "id": 54,

@@ -48,7 +48,7 @@
     "downlink_high": null,
     "mode_id": 22,
     "invert": true,
-    "baud": 0,
+    "baud": 9600,
     "norad_cat_id": 25397
   },
   {
@@ -61,7 +61,7 @@
     "downlink_high": null,
     "mode_id": 22,
     "invert": true,
-    "baud": 0,
+    "baud": 9600,
     "norad_cat_id": 25397
   },
   {
@@ -74,7 +74,7 @@
     "downlink_high": null,
     "mode_id": 22,
     "invert": true,
-    "baud": 0,
+    "baud": 9600,
     "norad_cat_id": 25397
   },
   {
@@ -178,7 +178,7 @@
     "downlink_high": null,
     "mode_id": 2,
     "invert": true,
-    "baud": 0,
+    "baud": 1200,
     "norad_cat_id": 26931
   },
   {
@@ -581,7 +581,7 @@
     "downlink_high": null,
     "mode_id": 22,
     "invert": false,
-    "baud": 0,
+    "baud": 9600,
     "norad_cat_id": 37855
   },
   {
@@ -594,7 +594,7 @@
     "downlink_high": null,
     "mode_id": 47,
     "invert": false,
-    "baud": 0,
+    "baud": 1200,
     "norad_cat_id": 37855
   },
   {
@@ -802,7 +802,7 @@
     "downlink_high": null,
     "mode_id": 2,
     "invert": false,
-    "baud": null,
+    "baud": 1200,
     "norad_cat_id": 40380
   },
   {
@@ -906,7 +906,7 @@
     "downlink_high": null,
     "mode_id": 6,
     "invert": false,
-    "baud": null,
+    "baud": 15,
     "norad_cat_id": 40021
   },
   {
@@ -1179,7 +1179,7 @@
     "downlink_high": null,
     "mode_id": 6,
     "invert": false,
-    "baud": null,
+    "baud": 22,
     "norad_cat_id": 40903
   },
   {
@@ -1257,7 +1257,7 @@
     "downlink_high": null,
     "mode_id": 6,
     "invert": false,
-    "baud": null,
+    "baud": 22,
     "norad_cat_id": 40906
   },
   {
@@ -2063,7 +2063,7 @@
     "downlink_high": null,
     "mode_id": 30,
     "invert": false,
-    "baud": null,
+    "baud": 1200,
     "norad_cat_id": 32788
   },
   {
@@ -2076,7 +2076,7 @@
     "downlink_high": null,
     "mode_id": 18,
     "invert": false,
-    "baud": null,
+    "baud": 9600,
     "norad_cat_id": 39446
   },
   {
@@ -2089,7 +2089,7 @@
     "downlink_high": null,
     "mode_id": 2,
     "invert": false,
-    "baud": null,
+    "baud": 1200,
     "norad_cat_id": 37855
   },
   {
@@ -3099,11 +3099,11 @@
     "alive": true,
     "uplink_low": null,
     "uplink_high": null,
-    "downlink_low": 437646000,
+    "downlink_low": 437650000,
     "downlink_high": null,
     "mode_id": 22,
     "invert": false,
-    "baud": null,
+    "baud": 9600,
     "norad_cat_id": 41789
   },
   {
@@ -3840,11 +3840,11 @@
     "alive": true,
     "uplink_low": null,
     "uplink_high": null,
-    "downlink_low": 436525000,
+    "downlink_low": 436530000,
     "downlink_high": null,
-    "mode_id": 39,
+    "mode_id": 38,
     "invert": false,
-    "baud": 9600,
+    "baud": 4800,
     "norad_cat_id": 42723
   },
   {
@@ -3987,7 +3987,7 @@
     "downlink_high": null,
     "mode_id": 50,
     "invert": false,
-    "baud": null,
+    "baud": 9600,
     "norad_cat_id": 42735
   },
   {
@@ -4065,7 +4065,7 @@
     "downlink_high": null,
     "mode_id": 46,
     "invert": false,
-    "baud": null,
+    "baud": 4800,
     "norad_cat_id": 42761
   },
   {
@@ -4637,7 +4637,7 @@
     "downlink_high": null,
     "mode_id": 6,
     "invert": false,
-    "baud": null,
+    "baud": 12,
     "norad_cat_id": 42778
   },
   {
@@ -5488,7 +5488,7 @@
   {
     "uuid": "ushGPST5ZBd3wZHdJZFmuJ",
     "description": "Spurious transmission",
-    "alive": true,
+    "alive": false,
     "uplink_low": null,
     "uplink_high": null,
     "downlink_low": 145865000,
@@ -5779,7 +5779,7 @@
     "uplink_high": null,
     "downlink_low": 465987500,
     "downlink_high": null,
-    "mode_id": 1,
+    "mode_id": 60,
     "invert": false,
     "baud": 400,
     "norad_cat_id": 25338
@@ -5792,7 +5792,7 @@
     "uplink_high": null,
     "downlink_low": 465987500,
     "downlink_high": null,
-    "mode_id": 1,
+    "mode_id": 60,
     "invert": false,
     "baud": 400,
     "norad_cat_id": 28654
@@ -5805,7 +5805,7 @@
     "uplink_high": null,
     "downlink_low": 465987500,
     "downlink_high": null,
-    "mode_id": 1,
+    "mode_id": 60,
     "invert": false,
     "baud": 400,
     "norad_cat_id": 29499
@@ -5818,7 +5818,7 @@
     "uplink_high": null,
     "downlink_low": 465987500,
     "downlink_high": null,
-    "mode_id": 1,
+    "mode_id": 60,
     "invert": false,
     "baud": 400,
     "norad_cat_id": 33591
@@ -5831,7 +5831,7 @@
     "uplink_high": null,
     "downlink_low": 465987500,
     "downlink_high": null,
-    "mode_id": 1,
+    "mode_id": 60,
     "invert": false,
     "baud": 400,
     "norad_cat_id": 38771
@@ -5912,7 +5912,7 @@
     "mode_id": 38,
     "invert": false,
     "baud": 4800,
-    "norad_cat_id": 99971
+    "norad_cat_id": 43596
   },
   {
     "uuid": "xJdvkNyavNNZwCFBYdWC5i",
@@ -5925,7 +5925,7 @@
     "mode_id": 38,
     "invert": false,
     "baud": 4800,
-    "norad_cat_id": 99970
+    "norad_cat_id": 43595
   },
   {
     "uuid": "eo3tn2jMr6wjqdzHRRFFSD",
@@ -5951,7 +5951,7 @@
     "mode_id": 6,
     "invert": false,
     "baud": null,
-    "norad_cat_id": 99980
+    "norad_cat_id": 43591
   },
   {
     "uuid": "5sU8zvn356KXimNpcZXNPn",
@@ -5964,7 +5964,7 @@
     "mode_id": 6,
     "invert": false,
     "baud": null,
-    "norad_cat_id": 99982
+    "norad_cat_id": 43589
   },
   {
     "uuid": "gbcectqEdajt7qUsiThoAY",
@@ -5977,7 +5977,7 @@
     "mode_id": 6,
     "invert": false,
     "baud": null,
-    "norad_cat_id": 99981
+    "norad_cat_id": 43590
   },
   {
     "uuid": "C9CQo5ghk7a6N2JGYo8dWh",
@@ -5987,10 +5987,10 @@
     "uplink_high": null,
     "downlink_low": 145825000,
     "downlink_high": null,
-    "mode_id": 4,
+    "mode_id": 2,
     "invert": false,
-    "baud": null,
-    "norad_cat_id": 99980
+    "baud": 1200,
+    "norad_cat_id": 43591
   },
   {
     "uuid": "vcSqoKHZe6KYHoKqhTiytH",
@@ -6000,10 +6000,10 @@
     "uplink_high": null,
     "downlink_low": 145825000,
     "downlink_high": null,
-    "mode_id": 4,
+    "mode_id": 2,
     "invert": false,
-    "baud": null,
-    "norad_cat_id": 99981
+    "baud": 1200,
+    "norad_cat_id": 43590
   },
   {
     "uuid": "wJNinAfbDaTr35RzYrnxeS",
@@ -6013,9 +6013,100 @@
     "uplink_high": null,
     "downlink_low": 145825000,
     "downlink_high": null,
-    "mode_id": 4,
+    "mode_id": 2,
+    "invert": false,
+    "baud": 1200,
+    "norad_cat_id": 43589
+  },
+  {
+    "uuid": "LRU9DbcqQ7xpARWCiWrFZG",
+    "description": "FM VOICE",
+    "alive": true,
+    "uplink_low": null,
+    "uplink_high": null,
+    "downlink_low": 437050000,
+    "downlink_high": null,
+    "mode_id": 1,
     "invert": false,
     "baud": null,
-    "norad_cat_id": 99982
+    "norad_cat_id": 99974
+  },
+  {
+    "uuid": "8RWF5jAGR3SaG3QQJAjNSP",
+    "description": "FM VOICE",
+    "alive": true,
+    "uplink_low": null,
+    "uplink_high": null,
+    "downlink_low": 437050000,
+    "downlink_high": null,
+    "mode_id": 1,
+    "invert": false,
+    "baud": null,
+    "norad_cat_id": 99973
+  },
+  {
+    "uuid": "pqPZH5uwmHs9vRLCjHFaQZ",
+    "description": "FSK Telemetry",
+    "alive": true,
+    "uplink_low": null,
+    "uplink_high": null,
+    "downlink_low": 437050000,
+    "downlink_high": null,
+    "mode_id": 22,
+    "invert": false,
+    "baud": 9600,
+    "norad_cat_id": 99973
+  },
+  {
+    "uuid": "GPz7QLruiv5g9uW3HmKC7H",
+    "description": "FSK Telemetry",
+    "alive": true,
+    "uplink_low": null,
+    "uplink_high": null,
+    "downlink_low": 437050000,
+    "downlink_high": null,
+    "mode_id": 22,
+    "invert": false,
+    "baud": 9600,
+    "norad_cat_id": 99974
+  },
+  {
+    "uuid": "SDFqERDjjgdzVPwF8MPSEh",
+    "description": "ARGOS-3",
+    "alive": true,
+    "uplink_low": null,
+    "uplink_high": null,
+    "downlink_low": 465987500,
+    "downlink_high": null,
+    "mode_id": 60,
+    "invert": false,
+    "baud": 400,
+    "norad_cat_id": 39086
+  },
+  {
+    "uuid": "qaT5P4FsKUEZCSAk4sMuQc",
+    "description": "ARGOS-3",
+    "alive": true,
+    "uplink_low": null,
+    "uplink_high": null,
+    "downlink_low": 465987500,
+    "downlink_high": null,
+    "mode_id": 60,
+    "invert": false,
+    "baud": 400,
+    "norad_cat_id": 29499
+  },
+  {
+    "uuid": "YpHpZiWytCCCcnchvkV62Z",
+    "description": "ARGOS-3",
+    "alive": true,
+    "uplink_low": null,
+    "uplink_high": null,
+    "downlink_low": 465987500,
+    "downlink_high": null,
+    "mode_id": 60,
+    "invert": false,
+    "baud": 400,
+    "norad_cat_id": 38771
   }
 ]
