@@ -466,70 +466,70 @@
     "name": "CAPE-2",
     "names": "",
     "norad_cat_id": 39382,
-    "status": "alive"
+    "status": "re-entered"
   },
   "39383": {
     "image": "https://db.satnogs.org/media/satellites/DRAGONSAT-1.jpg",
     "name": "DRAGONSAT-1",
     "names": "",
     "norad_cat_id": 39383,
-    "status": "alive"
+    "status": "re-entered"
   },
   "39384": {
     "image": "https://db.satnogs.org/media/satellites/KYSAT-2.jpg",
     "name": "KYSAT-2",
     "names": "",
     "norad_cat_id": 39384,
-    "status": "alive"
+    "status": "re-entered"
   },
   "39385": {
     "image": "https://db.satnogs.org/media/satellites/TJ3SAT.jpg",
     "name": "TJ3SAT",
     "names": "",
     "norad_cat_id": 39385,
-    "status": "alive"
+    "status": "re-entered"
   },
   "39395": {
     "image": "https://db.satnogs.org/media/satellites/COPPER.jpg",
     "name": "COPPER",
     "names": "",
     "norad_cat_id": 39395,
-    "status": "alive"
+    "status": "re-entered"
   },
   "39398": {
     "image": "https://db.satnogs.org/media/satellites/BLACK_NIGHT-1.jpg",
     "name": "BLACK KNIGHT-1",
     "names": "",
     "norad_cat_id": 39398,
-    "status": "alive"
+    "status": "re-entered"
   },
   "39400": {
     "image": "https://db.satnogs.org/media/satellites/TRAILBLAZER.jpg",
     "name": "TRAILBLAZER",
     "names": "SPA-1",
     "norad_cat_id": 39400,
-    "status": "alive"
+    "status": "re-entered"
   },
   "39402": {
     "image": "https://db.satnogs.org/media/satellites/SWAMPSAT.jpg",
     "name": "SWAMPSAT",
     "names": "",
     "norad_cat_id": 39402,
-    "status": "alive"
+    "status": "re-entered"
   },
   "39405": {
     "image": "https://db.satnogs.org/media/satellites/CHARGERSAT-1.jpg",
     "name": "CHARGERSAT-1",
     "names": "",
     "norad_cat_id": 39405,
-    "status": "alive"
+    "status": "re-entered"
   },
   "39407": {
     "image": "https://db.satnogs.org/media/satellites/VERMONT_LUNAR.jpg",
     "name": "VERMONT LUNAR",
     "names": "",
     "norad_cat_id": 39407,
-    "status": "alive"
+    "status": "re-entered"
   },
   "39417": {
     "image": "https://db.satnogs.org/media/satellites/index.jpeg",
@@ -648,6 +648,13 @@
     "name": "MCUBED-2",
     "names": "",
     "norad_cat_id": 39469,
+    "status": "alive"
+  },
+  "39492": {
+    "image": "https://db.satnogs.org/media/satellites/aist__1.jpg",
+    "name": "AIST-1",
+    "names": "",
+    "norad_cat_id": 39492,
     "status": "alive"
   },
   "39770": {
@@ -1215,7 +1222,7 @@
     "name": "AOBA-VELOX 3",
     "names": "AOBA-VeloxIII",
     "norad_cat_id": 41935,
-    "status": "alive"
+    "status": "re-entered"
   },
   "41948": {
     "image": "https://db.satnogs.org/media/satellites/cartosat-2d.jpg",
@@ -1285,14 +1292,14 @@
     "name": "LINK",
     "names": "KR01\r\nON01KR",
     "norad_cat_id": 42714,
-    "status": "alive"
+    "status": "re-entered"
   },
   "42716": {
     "image": "https://db.satnogs.org/media/satellites/upsat.jpg",
     "name": "UPSAT",
     "names": "GR02\r\nON02GR",
     "norad_cat_id": 42716,
-    "status": "alive"
+    "status": "re-entered"
   },
   "42717": {
     "image": "https://db.satnogs.org/media/satellites/SPACECUBE.jpg",
@@ -1334,12 +1341,12 @@
     "name": "DUTHSat",
     "names": "GR01 ON01GR",
     "norad_cat_id": 42724,
-    "status": "alive"
+    "status": "re-entered"
   },
   "42725": {
     "image": "https://db.satnogs.org/media/satellites/LILACSAT-1.jpg",
     "name": "LILACSAT-1",
-    "names": "CN02 ON02CN",
+    "names": "CN02 ON02CN\r\nLO-90",
     "norad_cat_id": 42725,
     "status": "alive"
   },
@@ -1404,7 +1411,7 @@
     "name": "EXALTA-1",
     "names": "CA03 ON03CA",
     "norad_cat_id": 42734,
-    "status": "alive"
+    "status": "re-entered"
   },
   "42735": {
     "image": "https://db.satnogs.org/media/satellites/AOXIANG-1.jpg",
@@ -1616,6 +1623,13 @@
     "norad_cat_id": 42983,
     "status": "alive"
   },
+  "43012": {
+    "image": null,
+    "name": "CZ-4C R/B",
+    "names": "",
+    "norad_cat_id": 43012,
+    "status": "alive"
+  },
   "43017": {
     "image": "https://db.satnogs.org/media/satellites/RadFxSat_Flight-300x300.jpg",
     "name": "FOX-1B",
@@ -1642,6 +1656,34 @@
     "name": "INS-1C",
     "names": "",
     "norad_cat_id": 43116,
+    "status": "alive"
+  },
+  "43119": {
+    "image": null,
+    "name": "FLOCK 3P'-3",
+    "names": "",
+    "norad_cat_id": 43119,
+    "status": "alive"
+  },
+  "43120": {
+    "image": null,
+    "name": "FLOCK 3P'-2",
+    "names": "",
+    "norad_cat_id": 43120,
+    "status": "alive"
+  },
+  "43121": {
+    "image": null,
+    "name": "FLOCK 3P'-1",
+    "names": "",
+    "norad_cat_id": 43121,
+    "status": "alive"
+  },
+  "43122": {
+    "image": null,
+    "name": "FLOCK 3P'-4",
+    "names": "",
+    "norad_cat_id": 43122,
     "status": "alive"
   },
   "43131": {
@@ -1700,11 +1742,32 @@
     "norad_cat_id": 43158,
     "status": "alive"
   },
+  "43186": {
+    "image": null,
+    "name": "S-NET A",
+    "names": "DP0TBB",
+    "norad_cat_id": 43186,
+    "status": "alive"
+  },
+  "43187": {
+    "image": null,
+    "name": "S-NET B",
+    "names": "DP0TBC",
+    "norad_cat_id": 43187,
+    "status": "alive"
+  },
   "43188": {
     "image": null,
-    "name": "D-Star ONE",
-    "names": "D-Star ONE Phoenix",
+    "name": "S-NET C",
+    "names": "DP0TBD",
     "norad_cat_id": 43188,
+    "status": "alive"
+  },
+  "43189": {
+    "image": null,
+    "name": "S-NET D",
+    "names": "DP0TBE",
+    "norad_cat_id": 43189,
     "status": "alive"
   },
   "43192": {
@@ -1793,9 +1856,191 @@
   },
   "43597": {
     "image": null,
-    "name": "OBJECT PJ",
-    "names": "",
+    "name": "Tanusha-3",
+    "names": "Tanusha-SWSU-3 (RS-8)\r\nRS8S",
     "norad_cat_id": 43597,
+    "status": "alive"
+  },
+  "43598": {
+    "image": null,
+    "name": "Tanusha-4",
+    "names": "Tanusha-SWSU-4 (RS-9)\r\nRS9S",
+    "norad_cat_id": 43598,
+    "status": "alive"
+  },
+  "43614": {
+    "image": "https://db.satnogs.org/media/satellites/SurfSAT_41476485_Medium-286x400.png",
+    "name": "SurfSat",
+    "names": "",
+    "norad_cat_id": 43614,
+    "status": "alive"
+  },
+  "43615": {
+    "image": "https://db.satnogs.org/media/satellites/dave.png",
+    "name": "CP 7 (DAVE)",
+    "names": "DAVE (Damping And Vibrations Experiment)\r\nPolySat",
+    "norad_cat_id": 43615,
+    "status": "alive"
+  },
+  "43616": {
+    "image": "https://db.satnogs.org/media/satellites/ELFIN_2xFLIGHT_UNITS.png",
+    "name": "ELFIN-B",
+    "names": "ELFIN-STAR\r\nWJ2XOX",
+    "norad_cat_id": 43616,
+    "status": "alive"
+  },
+  "43617": {
+    "image": "https://db.satnogs.org/media/satellites/ELFIN_2xFLIGHT_UNITS_tTR41xM.png",
+    "name": "ELFIN-A",
+    "names": "WJ2XNX",
+    "norad_cat_id": 43617,
+    "status": "alive"
+  },
+  "43640": {
+    "image": null,
+    "name": "STARS-Me",
+    "names": "JJ2YPL\r\nJJ2YPM",
+    "norad_cat_id": 43640,
+    "status": "alive"
+  },
+  "43666": {
+    "image": "https://db.satnogs.org/media/satellites/BSUSat_1_real2.png",
+    "name": "CubeBel-1",
+    "names": "BSUSat-1",
+    "norad_cat_id": 43666,
+    "status": "alive"
+  },
+  "43669": {
+    "image": null,
+    "name": "OBJECT H",
+    "names": "",
+    "norad_cat_id": 43669,
+    "status": "alive"
+  },
+  "43677": {
+    "image": null,
+    "name": "Ten-Koh",
+    "names": "JG6YKY\r\nTENKOH STK sim",
+    "norad_cat_id": 43677,
+    "status": "alive"
+  },
+  "43678": {
+    "image": null,
+    "name": "DIWATA-2",
+    "names": "",
+    "norad_cat_id": 43678,
+    "status": "alive"
+  },
+  "43679": {
+    "image": null,
+    "name": "Stars-AO",
+    "names": "JJ2YSY",
+    "norad_cat_id": 43679,
+    "status": "alive"
+  },
+  "43693": {
+    "image": "https://db.satnogs.org/media/satellites/irvine.png",
+    "name": "IRVINE-01",
+    "names": "",
+    "norad_cat_id": 43693,
+    "status": "alive"
+  },
+  "99910": {
+    "image": null,
+    "name": "MOVE 2",
+    "names": "",
+    "norad_cat_id": 99910,
+    "status": "alive"
+  },
+  "99911": {
+    "image": null,
+    "name": "Fox-1C",
+    "names": "Fox-1Cliff",
+    "norad_cat_id": 99911,
+    "status": "alive"
+  },
+  "99912": {
+    "image": null,
+    "name": "ESEO (FunCube 4)",
+    "names": "",
+    "norad_cat_id": 99912,
+    "status": "alive"
+  },
+  "99913": {
+    "image": null,
+    "name": "K2SAT",
+    "names": "K\u00b2SAT",
+    "norad_cat_id": 99913,
+    "status": "alive"
+  },
+  "99914": {
+    "image": null,
+    "name": "ExseedSat 1",
+    "names": "",
+    "norad_cat_id": 99914,
+    "status": "alive"
+  },
+  "99915": {
+    "image": null,
+    "name": "IRVINE-02",
+    "names": "",
+    "norad_cat_id": 99915,
+    "status": "alive"
+  },
+  "99916": {
+    "image": null,
+    "name": "Astrocast 0.1",
+    "names": "",
+    "norad_cat_id": 99916,
+    "status": "alive"
+  },
+  "99917": {
+    "image": null,
+    "name": "Centauri 2",
+    "names": "",
+    "norad_cat_id": 99917,
+    "status": "alive"
+  },
+  "99918": {
+    "image": null,
+    "name": "CSIM-FD",
+    "names": "",
+    "norad_cat_id": 99918,
+    "status": "alive"
+  },
+  "99919": {
+    "image": null,
+    "name": "ITASAT 1",
+    "names": "",
+    "norad_cat_id": 99919,
+    "status": "alive"
+  },
+  "99920": {
+    "image": null,
+    "name": "JY1-Sat",
+    "names": "",
+    "norad_cat_id": 99920,
+    "status": "alive"
+  },
+  "99921": {
+    "image": null,
+    "name": "KNACKSAT",
+    "names": "",
+    "norad_cat_id": 99921,
+    "status": "alive"
+  },
+  "99922": {
+    "image": null,
+    "name": "MinXSS 2",
+    "names": "",
+    "norad_cat_id": 99922,
+    "status": "alive"
+  },
+  "99923": {
+    "image": null,
+    "name": "PW-Sat2",
+    "names": "",
+    "norad_cat_id": 99923,
     "status": "alive"
   },
   "99937": {
@@ -1826,23 +2071,23 @@
     "norad_cat_id": 99963,
     "status": "alive"
   },
-  "99973": {
+  "99975": {
     "image": null,
-    "name": "Tanusha-4",
-    "names": "",
-    "norad_cat_id": 99973,
+    "name": "AUTcube2",
+    "names": "JJ2YTA",
+    "norad_cat_id": 99975,
     "status": "alive"
   },
-  "99974": {
+  "99981": {
     "image": null,
-    "name": "Tanusha-3",
-    "names": "",
-    "norad_cat_id": 99974,
+    "name": "RSP-00",
+    "names": "8J1RSP",
+    "norad_cat_id": 99981,
     "status": "alive"
   },
   "99999": {
-    "image": "https://db.satnogs.org/media/satellites/irvine.png",
-    "name": "IRVINE-01",
+    "image": null,
+    "name": "Es'hail 2",
     "names": "",
     "norad_cat_id": 99999,
     "status": "alive"

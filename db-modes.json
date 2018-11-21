@@ -112,6 +112,10 @@
     "name": "GFSK9k6"
   },
   {
+    "id": 63,
+    "name": "GMSK"
+  },
+  {
     "id": 48,
     "name": "GMSK19k2"
   },
@@ -168,6 +172,10 @@
     "name": "MSK9k6"
   },
   {
+    "id": 61,
+    "name": "OFDM"
+  },
+  {
     "id": 40,
     "name": "PSK31"
   },
@@ -180,6 +188,10 @@
     "name": "QPSK31"
   },
   {
+    "id": 62,
+    "name": "QPSK38k4"
+  },
+  {
     "id": 43,
     "name": "QPSK63"
   },
@@ -190,5 +202,9 @@
   {
     "id": 9,
     "name": "USB"
+  },
+  {
+    "id": 64,
+    "name": "WSJT"
   }
 ]
