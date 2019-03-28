@@ -8322,7 +8322,7 @@
   {
     "uuid": "aS4oVeSSuAkEDEVGmpdcNe",
     "description": "FSK9k6",
-    "alive": false,
+    "alive": true,
     "type": "Transmitter",
     "uplink_low": null,
     "uplink_high": null,
@@ -9794,7 +9794,7 @@
   {
     "uuid": "YwBS8F3RZerJjms2MzAyYj",
     "description": "FSK4k8 AX.25 TLM",
-    "alive": true,
+    "alive": false,
     "type": "Transmitter",
     "uplink_low": null,
     "uplink_high": null,
@@ -10638,5 +10638,21 @@
     "invert": false,
     "baud": 4000,
     "norad_cat_id": 25635
+  },
+  {
+    "uuid": "V5w2y4795oxP4wjhhHbZHb",
+    "description": "TLM AFSK",
+    "alive": true,
+    "type": "Transmitter",
+    "uplink_low": null,
+    "uplink_high": null,
+    "uplink_drift": null,
+    "downlink_low": 437600000,
+    "downlink_high": null,
+    "downlink_drift": 0,
+    "mode_id": 2,
+    "invert": false,
+    "baud": 1200,
+    "norad_cat_id": 38760
   }
 ]

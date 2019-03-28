@@ -1380,7 +1380,7 @@
     "name": "ITF-2",
     "names": "",
     "image": "https://db.satnogs.org/media/satellites/itf-2_rtUjYD0.jpg",
-    "status": "alive",
+    "status": "re-entered",
     "decayed": null
   },
   {
@@ -1428,7 +1428,7 @@
     "name": "SOMP2",
     "names": "DE02\r\nON02DE",
     "image": "https://db.satnogs.org/media/satellites/SOMP-2.jpg",
-    "status": "alive",
+    "status": "re-entered",
     "decayed": null
   },
   {
