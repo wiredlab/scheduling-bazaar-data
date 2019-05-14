@@ -1548,7 +1548,7 @@
     "name": "LILACSAT-1",
     "names": "CN02 ON02CN\r\nLO-90",
     "image": "https://db.satnogs.org/media/satellites/LILACSAT-1.jpg",
-    "status": "alive",
+    "status": "re-entered",
     "decayed": null
   },
   {
@@ -1564,7 +1564,7 @@
     "name": "SNUSAT-1B",
     "names": "KR03 ON03KR",
     "image": "https://db.satnogs.org/media/satellites/SNUSAT-1.jpg",
-    "status": "alive",
+    "status": "re-entered",
     "decayed": null
   },
   {
@@ -1588,7 +1588,7 @@
     "name": "SUSAT",
     "names": "AU01 ON01AU",
     "image": "https://db.satnogs.org/media/satellites/SUSAT.jpg",
-    "status": "alive",
+    "status": "re-entered",
     "decayed": null
   },
   {
@@ -1612,7 +1612,7 @@
     "name": "SNUSAT-1",
     "names": "KR02 ON02KR",
     "image": null,
-    "status": "alive",
+    "status": "re-entered",
     "decayed": null
   },
   {
@@ -1636,8 +1636,8 @@
     "name": "BEEAGLESAT",
     "names": "TR01 ON01TR",
     "image": "https://db.satnogs.org/media/satellites/BEEAGLESAT.jpg",
-    "status": "alive",
-    "decayed": null
+    "status": "re-entered",
+    "decayed": "2019-04-30T06:30:54Z"
   },
   {
     "norad_cat_id": 42737,
@@ -2532,6 +2532,38 @@
     "name": "KickSat-2",
     "names": "",
     "image": null,
+    "status": "re-entered",
+    "decayed": "2019-04-02T04:21:00Z"
+  },
+  {
+    "norad_cat_id": 44083,
+    "name": "Astrocast 0.2",
+    "names": "HB9GSF",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 44103,
+    "name": "AISTECHSAT-3",
+    "names": "Danu Pathfinder",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 44104,
+    "name": "AISAT-1",
+    "names": "",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 44109,
+    "name": "M6P",
+    "names": "",
+    "image": null,
     "status": "alive",
     "decayed": null
   },
@@ -2684,6 +2716,22 @@
     "name": "RSP-00",
     "names": "8J1RSP",
     "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 99990,
+    "name": "EntrySat",
+    "names": "",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 99999,
+    "name": "CubeSatSim",
+    "names": "",
+    "image": "https://db.satnogs.org/media/satellites/cubsatsim.png",
     "status": "alive",
     "decayed": null
   }
