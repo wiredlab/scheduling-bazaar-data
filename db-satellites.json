@@ -1452,8 +1452,8 @@
     "name": "PHOENIX",
     "names": "TW01\r\nON01TW",
     "image": "https://db.satnogs.org/media/satellites/PHOENIX_UCqlyUJ.JPG",
-    "status": "alive",
-    "decayed": null
+    "status": "re-entered",
+    "decayed": "2019-05-23T19:04:33Z"
   },
   {
     "norad_cat_id": 42707,
@@ -1796,16 +1796,16 @@
     "name": "BIRD-M",
     "names": "Mazaalai NUMSAT-1",
     "image": "https://db.satnogs.org/media/satellites/bird-m.jpg",
-    "status": "alive",
-    "decayed": null
+    "status": "re-entered",
+    "decayed": "2019-05-23T19:05:55Z"
   },
   {
     "norad_cat_id": 42823,
     "name": "BIRD-B",
     "names": "BRAC Onnesha",
     "image": "https://db.satnogs.org/media/satellites/bird-b__2.jpg",
-    "status": "alive",
-    "decayed": null
+    "status": "re-entered",
+    "decayed": "2019-05-23T19:11:14Z"
   },
   {
     "norad_cat_id": 42828,
