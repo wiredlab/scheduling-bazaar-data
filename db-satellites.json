@@ -1476,8 +1476,8 @@
     "name": "ZA-AEROSAT",
     "names": "AEROSAT\r\nAZ01\r\nON01AZ",
     "image": "https://db.satnogs.org/media/satellites/ZA-AEROSAT.jpg",
-    "status": "alive",
-    "decayed": null
+    "status": "re-entered",
+    "decayed": "2019-06-08T13:25:31Z"
   },
   {
     "norad_cat_id": 42714,
