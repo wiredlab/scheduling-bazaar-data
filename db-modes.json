@@ -204,8 +204,16 @@
     "name": "OFDM"
   },
   {
+    "id": 74,
+    "name": "PSK"
+  },
+  {
     "id": 40,
     "name": "PSK31"
+  },
+  {
+    "id": 73,
+    "name": "PSK4k8"
   },
   {
     "id": 41,
