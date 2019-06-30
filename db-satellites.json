@@ -945,8 +945,8 @@
   },
   {
     "norad_cat_id": 40661,
-    "name": "LIGHTSAIL-A",
-    "names": "",
+    "name": "LIGHTSAIL-1",
+    "names": "LIGHTSAIL-A",
     "image": "https://db.satnogs.org/media/satellites/lightsail1.jpeg",
     "status": "re-entered",
     "decayed": "2015-06-14T00:00:00Z"
@@ -2153,8 +2153,8 @@
   },
   {
     "norad_cat_id": 43615,
-    "name": "CP 7 (DAVE)",
-    "names": "PolySat",
+    "name": "CP7 (DAVE)",
+    "names": "",
     "image": "https://db.satnogs.org/media/satellites/dave.png",
     "status": "alive",
     "decayed": null
@@ -2456,6 +2456,14 @@
     "decayed": null
   },
   {
+    "norad_cat_id": 43857,
+    "name": "Da Vinci",
+    "names": "",
+    "image": "https://db.satnogs.org/media/satellites/cubesat_300x300.png",
+    "status": "alive",
+    "decayed": null
+  },
+  {
     "norad_cat_id": 43879,
     "name": "D-Star ONE iSat",
     "names": "DP1GOS",
@@ -2568,6 +2576,46 @@
     "decayed": null
   },
   {
+    "norad_cat_id": 44329,
+    "name": "NepaliSat-1",
+    "names": "JG6YLF",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 44330,
+    "name": "Raavana-1",
+    "names": "JG6YLG",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 44331,
+    "name": "Uguisu",
+    "names": "JG6YLE",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 44332,
+    "name": "SpooQy-1",
+    "names": "",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 44360,
+    "name": "CP9 (LEO)",
+    "names": "",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
     "norad_cat_id": 99901,
     "name": "3CAT-1",
     "names": "³Cat-1",
@@ -2656,14 +2704,6 @@
     "decayed": null
   },
   {
-    "norad_cat_id": 99940,
-    "name": "Da Vinci",
-    "names": "",
-    "image": "https://db.satnogs.org/media/satellites/cubesat_300x300.png",
-    "status": "alive",
-    "decayed": null
-  },
-  {
     "norad_cat_id": 99943,
     "name": "CubeSail-1",
     "names": "",
@@ -2688,6 +2728,14 @@
     "decayed": null
   },
   {
+    "norad_cat_id": 99961,
+    "name": "PAINANI-1",
+    "names": "",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
     "norad_cat_id": 99962,
     "name": "MEMSAT",
     "names": "",
@@ -2704,6 +2752,78 @@
     "decayed": null
   },
   {
+    "norad_cat_id": 99964,
+    "name": "ACRUX-1",
+    "names": "",
+    "image": "https://db.satnogs.org/media/satellites/MSP_ACRUX-1_reduced-file-size.png",
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 99965,
+    "name": "TBEX-A",
+    "names": "",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 99966,
+    "name": "TBEX-B",
+    "names": "",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 99967,
+    "name": "Prox-1",
+    "names": "Nanosat-7",
+    "image": "https://db.satnogs.org/media/satellites/original.png",
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 99968,
+    "name": "ARMADILLO",
+    "names": "",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 99969,
+    "name": "PSAT-2",
+    "names": "",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 99970,
+    "name": "BRICSat-2",
+    "names": "USNA-P1",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 99972,
+    "name": "Oculus-ASR",
+    "names": "Nanosat-6",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
+    "norad_cat_id": 99973,
+    "name": "LightSail-2",
+    "names": "WM9XPA\r\nLightSail-B",
+    "image": null,
+    "status": "alive",
+    "decayed": null
+  },
+  {
     "norad_cat_id": 99975,
     "name": "AUTcube2",
     "names": "JJ2YTA",
@@ -2715,38 +2835,6 @@
     "norad_cat_id": 99981,
     "name": "RSP-00",
     "names": "8J1RSP",
-    "image": null,
-    "status": "alive",
-    "decayed": null
-  },
-  {
-    "norad_cat_id": 99985,
-    "name": "NepaliSat-1",
-    "names": "JG6YLF",
-    "image": null,
-    "status": "alive",
-    "decayed": null
-  },
-  {
-    "norad_cat_id": 99986,
-    "name": "Raavana-1",
-    "names": "JG6YLG",
-    "image": null,
-    "status": "alive",
-    "decayed": null
-  },
-  {
-    "norad_cat_id": 99987,
-    "name": "Uguisu",
-    "names": "JG6YLE",
-    "image": null,
-    "status": "alive",
-    "decayed": null
-  },
-  {
-    "norad_cat_id": 99988,
-    "name": "SpooQy-1",
-    "names": "",
     "image": null,
     "status": "alive",
     "decayed": null
