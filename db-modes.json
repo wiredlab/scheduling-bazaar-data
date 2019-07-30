@@ -116,6 +116,10 @@
     "name": "FSK9k6"
   },
   {
+    "id": 75,
+    "name": "GFSK"
+  },
+  {
     "id": 68,
     "name": "GFSK Rktr"
   },
@@ -202,6 +206,10 @@
   {
     "id": 61,
     "name": "OFDM"
+  },
+  {
+    "id": 76,
+    "name": "OQPSK"
   },
   {
     "id": 74,
